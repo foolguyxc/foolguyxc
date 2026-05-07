@@ -4,4 +4,4 @@
   </a>
 </p>
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/8e293005-b251-4ee1-9d42-9a4170b472bf" />
+<img src="https://www.image2url.com/r2/default/images/1778152978397-fb460102-9694-4f78-b6b0-b5ddcc20e2c5.png" alt="image" />
